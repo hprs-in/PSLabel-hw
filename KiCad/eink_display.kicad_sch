@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6a80cd63-8b8b-4117-ac34-a6b59184cc12")
+	(paper "A4")
+	(title_block
+		(title "PSLabel")
+		(date "2025-06-19")
+	)
+	(lib_symbols)
+)

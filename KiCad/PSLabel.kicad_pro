@@ -612,6 +612,18 @@
     [
       "3e66aa7a-7b9f-4ef6-923c-a0fae49a7217",
       "Root"
+    ],
+    [
+      "b927d4ff-e530-4bd1-a671-0e073096dd81",
+      "nRF54L15"
+    ],
+    [
+      "966c209b-31b9-47bf-895f-fb776e46c4a5",
+      "nPM2100"
+    ],
+    [
+      "08605f6a-f4b4-4007-8bd1-3b0bb32bd95a",
+      "eink_display"
     ]
   ],
   "text_variables": {}
